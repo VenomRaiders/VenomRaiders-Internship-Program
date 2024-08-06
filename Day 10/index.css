@@ -1,0 +1,73 @@
+body {
+    /* Adding a background color with a linear gradient */
+    background: linear-gradient(90deg, #77a9de, #9468bd);
+    font-family: Helvetica, sans-serif;
+}
+
+form {
+    background-color: white;
+    transition: ease-in 3s;
+    margin-top: 7%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    padding: 2% 3%;
+    border-radius: 5px;
+}
+
+.form-elements {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+input {
+    border: 1px solid gray;
+    padding: 7px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+h2 {
+    margin-top: -10px;
+}
+
+hr {
+    width: 100px;
+    height: 2px;
+    background: linear-gradient(90deg, #77a9de, #9468bd);
+    margin-top: -20px;
+    margin-left: 1px;
+    margin-bottom: 25px;
+}
+
+.btn {
+    background: linear-gradient(90deg, #77a9de, #9468bd);
+    color: white;
+    font-weight: bold;
+    width: 90px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+small {
+    text-align: left;
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+}
