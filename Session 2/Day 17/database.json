@@ -1,0 +1,38 @@
+{
+    "user_id0": {
+        "Name": "Tambe",
+        "Profession": "SE",
+        "years_of_exp": 4,
+        "more_details": {
+            "hello": "world",
+            "Anime": "Dr Stone"
+        }
+    },
+    "user_id1": {
+        "Name": "Lett",
+        "Profession": "UX",
+        "years_of_exp": 2,
+        "more_details": {
+            "hello": "world",
+            "Anime": "Dr Stone"
+        }
+    },
+    "user_id2": {
+        "Name": "Julia",
+        "Profession": "2",
+        "years_of_exp": 5,
+        "more_details": {
+            "hello": "world",
+            "Anime": "Dr Stone"
+        }
+    },
+    "user_id3": {
+        "Name": "Jango",
+        "Profession": "SE",
+        "years_of_exp": 5,
+        "more_details": {
+            "hello": "world",
+            "Anime": "Dr Stone"
+        }
+    }
+}
